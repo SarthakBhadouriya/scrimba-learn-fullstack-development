@@ -41,3 +41,9 @@ Give the div a "btn-wrapper" class.
     border-radius: 4px;
     font-size: 14px;
 }
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
