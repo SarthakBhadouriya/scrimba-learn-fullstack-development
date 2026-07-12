@@ -9,5 +9,12 @@ body {
     color: white;
     background-image: url("images/universe.jpg");
     background-size: cover;
+    text-align: center;
 }
 
+.btn{
+    display:block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #d8cefe;
+}
