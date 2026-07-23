@@ -2,4 +2,6 @@
 // "Something went wrong, please try again" in the paragraph
 // that has the id="error".
 
-
+function errorMessage(){
+    document.getElementById("error").innerHTML = "Something went wrong, please try again";
+}
